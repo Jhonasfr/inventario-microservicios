@@ -34,11 +34,7 @@ Este proyecto implementa un sistema de gestión de productos basado en microserv
 
 ## 🧠 Diagrama UML 
 
-✍️ El diagrama se hace a mano y se sube como imagen. Aquí va la explicación textual:
-
-- `ProductoService` tiene el endpoint `/productos` para GET y POST.
-- `CalculoService` expone `/calcular` para recibir precio y cantidad, y devolver el total.
-- Ambos se comunican vía HTTP gracias a Docker.
+En la wiki de git hub
 
 ---
 
@@ -98,14 +94,5 @@ docker-compose up --build
 Este proyecto cubre todos los puntos del entregable: código funcional, pruebas, persistencia, dockerización, uso de dos lenguajes, estructura limpia y documentación clara.
 
 
-# lick de hithub
-
-
-## 🌐 Documentación en GitHub (10%)
-
-1. Se debe subir el proyecto a GitHub.
-2. El `README.md` será este mismo archivo.
-3. Crear pestaña **Wiki** en el repositorio con:
-   - Diagrama UML (como imagen)
-   - Guía de despliegue
-   - Explicación de pruebas
+# lick de github
+https://github.com/Jhonasfr/inventario-microservicios.git 
