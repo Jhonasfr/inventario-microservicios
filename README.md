@@ -96,6 +96,10 @@ Este proyecto cubre todos los puntos del entregable: código funcional, pruebas,
 docker-compose down
 docker-compose up --build
 
-
-
+-----
 # lick de github
+https://github.com/Jhonasfr/inventario-microservicios.git
+
+----
+#Integrantes
+## Jhonnatan Vinasco Cobo - Janier Palacios
