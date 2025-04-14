@@ -93,6 +93,9 @@ docker-compose up --build
 
 Este proyecto cubre todos los puntos del entregable: código funcional, pruebas, persistencia, dockerización, uso de dos lenguajes, estructura limpia y documentación clara.
 
+docker-compose down
+docker-compose up --build
+
+
 
 # lick de github
-https://github.com/Jhonasfr/inventario-microservicios.git 
